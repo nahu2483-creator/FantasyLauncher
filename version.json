@@ -1,0 +1,13 @@
+{
+  "launcherVersion": "1.0.0",
+  "maintenance": false,
+  "message": "",
+  "android": {
+    "dataVersion": "1.0.0",
+    "dataUrl": "https://github.com/nahu2483-creator/FantasyLauncher/releases/latest/download/Data.zip",
+    "fileName": "Data.zip"
+  },
+  "windows": {
+    "enabled": false
+  }
+}
